@@ -1,0 +1,37 @@
+Added Component: Designator=C52(C0603-S)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AMK107BJ106MA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C524952"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "AMK107BJ106MA-T"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD-1.3¥Á÷–æ∞‘∞)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "huyangtu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "÷–æ∞‘∞1.3¥ÁIPS∆¡"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=+3V3 Pin=C52-2
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-2
+Added Pin To Net: NetName=+3V3 Pin=LCD1-3
+Added Pin To Net: NetName=+3V3 Pin=LCD1-4
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=GND Pin=LCD1-6
+Added Pin To Net: NetName=LCD_DC Pin=LCD1-7
+Added Pin To Net: NetName=LCD_CS Pin=LCD1-8
+Added Pin To Net: NetName=LCD_SCL Pin=LCD1-9
+Added Pin To Net: NetName=LCD_SDA Pin=LCD1-10
+Added Pin To Net: NetName=LCD_RST Pin=LCD1-11
+Added Pin To Net: NetName=GND Pin=LCD1-12
+Added Member To Class: ClassName=linux-H-PIN Member=Component C52 100nF
+Added Member To Class: ClassName=linux-H-PIN Member=Component LCD1 ÷–æ∞‘∞1.3¥ÁIPS∆¡
+Added Room: Name=linux-H-0
+Added Room: Name=linux-H-PIN
+Added Room: Name=linux-H-Power

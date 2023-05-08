@@ -1,0 +1,95 @@
+Added Component: Designator=*(IC-V3S)
+Added Pin To Net: NetName=LED_1 Pin=*-6
+Added Pin To Net: NetName=LED_2 Pin=*-7
+Added Pin To Net: NetName=LED_3 Pin=*-8
+Added Pin To Net: NetName=+3V3 Pin=*-12
+Added Pin To Net: NetName=+1V2 Pin=*-19
+Added Pin To Net: NetName=+1V2 Pin=*-20
+Added Pin To Net: NetName=+1V2 Pin=*-21
+Added Pin To Net: NetName=+1V2 Pin=*-25
+Added Pin To Net: NetName=+1V2 Pin=*-26
+Added Pin To Net: NetName=+3V3 Pin=*-29
+Added Pin To Net: NetName=+1V2 Pin=*-38
+Added Pin To Net: NetName=UART2_TX Pin=*-39
+Added Pin To Net: NetName=UART2_RX Pin=*-40
+Added Pin To Net: NetName=LCD_DC Pin=*-43
+Added Pin To Net: NetName=LCD_RST Pin=*-44
+Added Pin To Net: NetName=+1V2 Pin=*-47
+Added Pin To Net: NetName=DTX Pin=*-48
+Added Pin To Net: NetName=DRX Pin=*-49
+Added Pin To Net: NetName=+3V3 Pin=*-50
+Added Pin To Net: NetName=+1V2 Pin=*-51
+Added Pin To Net: NetName=LCD_SCL Pin=*-53
+Added Pin To Net: NetName=LCD_CS Pin=*-54
+Added Pin To Net: NetName=LCD_SDA Pin=*-55
+Added Pin To Net: NetName=+1V2 Pin=*-56
+Added Pin To Net: NetName=+3V3 Pin=*-57
+Added Pin To Net: NetName=+1V2 Pin=*-58
+Added Pin To Net: NetName=+1V8 Pin=*-59
+Added Pin To Net: NetName=+1V8 Pin=*-60
+Added Pin To Net: NetName=+1V8 Pin=*-61
+Added Pin To Net: NetName=+1V8 Pin=*-62
+Added Pin To Net: NetName=+1V2 Pin=*-64
+Added Pin To Net: NetName=+1V8 Pin=*-65
+Added Pin To Net: NetName=+1V8 Pin=*-66
+Added Pin To Net: NetName=+1V8 Pin=*-67
+Added Pin To Net: NetName=+1V8 Pin=*-68
+Added Pin To Net: NetName=+1V8 Pin=*-69
+Added Pin To Net: NetName=+1V8 Pin=*-70
+Added Pin To Net: NetName=+1V8 Pin=*-72
+Added Pin To Net: NetName=Net*_73 Pin=*-73
+Added Pin To Net: NetName=Net*_74 Pin=*-74
+Added Pin To Net: NetName=Net*_75 Pin=*-75
+Added Pin To Net: NetName=+3V0 Pin=*-76
+Added Pin To Net: NetName=+1V8 Pin=*-79
+Added Pin To Net: NetName=+1V2 Pin=*-80
+Added Pin To Net: NetName=+1V8 Pin=*-85
+Added Pin To Net: NetName=+1V2 Pin=*-88
+Added Pin To Net: NetName=+3V3 Pin=*-93
+Added Pin To Net: NetName=Net*_94 Pin=*-94
+Added Pin To Net: NetName=Net*_95 Pin=*-95
+Added Pin To Net: NetName=Net*_96 Pin=*-96
+Added Pin To Net: NetName=Net*_97 Pin=*-97
+Added Pin To Net: NetName=+3V3 Pin=*-98
+Added Pin To Net: NetName=RESET Pin=*-99
+Added Pin To Net: NetName=Net*_100 Pin=*-100
+Added Pin To Net: NetName=SDC0_D2 Pin=*-101
+Added Pin To Net: NetName=SDC0_D3 Pin=*-102
+Added Pin To Net: NetName=SDC0_CMD Pin=*-103
+Added Pin To Net: NetName=+3V3 Pin=*-104
+Added Pin To Net: NetName=SDC0_CLK Pin=*-105
+Added Pin To Net: NetName=SDC0_D0 Pin=*-106
+Added Pin To Net: NetName=SDC0_D1 Pin=*-107
+Added Pin To Net: NetName=+1V2 Pin=*-108
+Added Pin To Net: NetName=+3V3 Pin=*-109
+Added Pin To Net: NetName=USB_N Pin=*-110
+Added Pin To Net: NetName=USB_P Pin=*-111
+Added Pin To Net: NetName=+3V0 Pin=*-115
+Added Pin To Net: NetName=GND Pin=*-116
+Added Pin To Net: NetName=Net*_117 Pin=*-117
+Added Pin To Net: NetName=Net*_118 Pin=*-118
+Added Pin To Net: NetName=Net*_119 Pin=*-119
+Added Pin To Net: NetName=HP_R Pin=*-120
+Added Pin To Net: NetName=HP_L Pin=*-121
+Added Pin To Net: NetName=+3V3 Pin=*-122
+Added Pin To Net: NetName=Net*_123 Pin=*-123
+Added Pin To Net: NetName=HPCOM Pin=*-124
+Added Pin To Net: NetName=HPCOM Pin=*-125
+Added Pin To Net: NetName=+1V2 Pin=*-126
+Added Pin To Net: NetName=+3V3 Pin=*-127
+Added Pin To Net: NetName=GND Pin=*-129
+Add Net: Net with name "DRAM_VREF" already exists
+Add Net: Net with name "DRX" already exists
+Add Net: Net with name "DTX" already exists
+Add Net: Net with name "LED_1" already exists
+Add Net: Net with name "LED_2" already exists
+Add Net: Net with name "LED_3" already exists
+Add Net: Net with name "SDC1_CLK" already exists
+Add Net: Net with name "SDC1_CMD" already exists
+Add Net: Net with name "SDC1_D0" already exists
+Add Net: Net with name "SDC1_D1" already exists
+Add Net: Net with name "SDC1_D2" already exists
+Add Net: Net with name "SDC1_D3" already exists
+Add Net: Net with name "UART2_RX" already exists
+Add Net: Net with name "UART2_TX" already exists
+Added Member To Class: ClassName=linux-H-0 Member=Component * IC-V3S

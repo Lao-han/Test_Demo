@@ -1,0 +1,51 @@
+Change Component Designator: OldDesignator=Power NewDesignator=LED1
+Added Component: Designator=J1(T-4PIN)
+Added Component: Designator=J2(T-4PIN)
+Added Component: Designator=J3(T-4PIN)
+Added Component: Designator=J4(T-4PIN)
+Added Component: Designator=J5(T-4PIN)
+Added Component: Designator=J6(T-4PIN)
+Added Pin To Net: NetName=MIC_IN Pin=C60-1
+Added Pin To Net: NetName=SDC0_D1 Pin=J1-1
+Added Pin To Net: NetName=SDC0_D0 Pin=J1-2
+Added Pin To Net: NetName=SDC0_CLK Pin=J1-3
+Added Pin To Net: NetName=SDC0_CMD Pin=J1-4
+Added Pin To Net: NetName=SDC0_D3 Pin=J2-1
+Added Pin To Net: NetName=SDC0_D2 Pin=J2-2
+Added Pin To Net: NetName=EPHY-TXP Pin=J2-3
+Added Pin To Net: NetName=EPHY-TXN Pin=J2-4
+Added Pin To Net: NetName=+3V3 Pin=J3-1
+Added Pin To Net: NetName=UART2_TX Pin=J3-2
+Added Pin To Net: NetName=UART2_RX Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=EPHY-RXP Pin=J4-1
+Added Pin To Net: NetName=EPHY-RXN Pin=J4-2
+Added Pin To Net: NetName=MCSI-CKN Pin=J4-3
+Added Pin To Net: NetName=MCSI-CKP Pin=J4-4
+Added Pin To Net: NetName=MCSI-D1N Pin=J5-1
+Added Pin To Net: NetName=MCSI-D1P Pin=J5-2
+Added Pin To Net: NetName=MCSI-D0N Pin=J5-3
+Added Pin To Net: NetName=MCSI-D0P Pin=J5-4
+Added Pin To Net: NetName=+3V3 Pin=J6-1
+Added Pin To Net: NetName=CSI_SDA Pin=J6-2
+Added Pin To Net: NetName=CSI_SCK Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=SDC0_D0 Pin=R22-2
+Added Pin To Net: NetName=SDC0_CMD Pin=R23-2
+Added Pin To Net: NetName=SDC0_D3 Pin=R24-2
+Added Pin To Net: NetName=SDC0_D2 Pin=R25-2
+Added Pin To Net: NetName=SDC0_D1 Pin=R28-1
+Added Pin To Net: NetName=SDC0_D2 Pin=SD1-1
+Added Pin To Net: NetName=SDC0_D3 Pin=SD1-2
+Added Pin To Net: NetName=SDC0_CMD Pin=SD1-3
+Added Pin To Net: NetName=SDC0_CLK Pin=SD1-5
+Added Pin To Net: NetName=SDC0_D0 Pin=SD1-7
+Added Pin To Net: NetName=SDC0_D1 Pin=SD1-8
+Added Member To Class: ClassName=linux-H-zero Member=Component J1 HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J2 HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J3 HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J4 HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J5 HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J6 HDR1x4
+Added Room: Name=linux-H-pin
+Added Room: Name=linux-H-zero

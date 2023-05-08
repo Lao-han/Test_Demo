@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=RESET Pin=C51-1
+Removed Pin From Net: NetName=RESET Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=+3V3 Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=GND Pin=LCD1-2
+Removed Pin From Net: NetName=+3V3 Pin=LCD1-3
+Removed Pin From Net: NetName=+3V3 Pin=LCD1-4
+Removed Pin From Net: NetName=GND Pin=LCD1-5
+Removed Pin From Net: NetName=GND Pin=LCD1-6
+Removed Pin From Net: NetName=LCD_DC Pin=LCD1-7
+Removed Pin From Net: NetName=LCD_CS Pin=LCD1-8
+Removed Pin From Net: NetName=LCD_SCL Pin=LCD1-9
+Removed Pin From Net: NetName=LCD_SDA Pin=LCD1-10
+Removed Pin From Net: NetName=LCD_RST Pin=LCD1-11
+Removed Pin From Net: NetName=GND Pin=LCD1-12
+Removed Pin From Net: NetName=RESET Pin=R26-2
+Removed Pin From Net: NetName=RESET Pin=R27-2
+Removed Pin From Net: NetName=RESET Pin=SW2-1
+Removed Pin From Net: NetName=RESET Pin=SW3-1
+Removed Member From Class: ClassName=linux-H-PIN Member=C56
+Removed Member From Class: ClassName=linux-H-PIN Member=LCD1
+Added Component: Designator=J?(T-4PIN)
+Added Component: Designator=J?(T-4PIN)
+Added Component: Designator=J?(T-4PIN)
+Added Component: Designator=J?(T-4PIN)
+Added Pin To Net: NetName=EPHY-RXN Pin=J?-4
+Added Pin To Net: NetName=EPHY-RXN Pin=U1-89
+Added Net: Name=EPHY-RXN
+Added Pin To Net: NetName=EPHY-RXP Pin=J?-3
+Added Pin To Net: NetName=EPHY-RXP Pin=U1-90
+Added Net: Name=EPHY-RXP
+Added Pin To Net: NetName=EPHY-TXN Pin=J?-2
+Added Pin To Net: NetName=EPHY-TXN Pin=U1-91
+Added Net: Name=EPHY-TXN
+Added Pin To Net: NetName=EPHY-TXP Pin=J?-1
+Added Pin To Net: NetName=EPHY-TXP Pin=U1-92
+Added Net: Name=EPHY-TXP
+Added Pin To Net: NetName=Key1 Pin=C51-1
+Added Pin To Net: NetName=Key1 Pin=R26-2
+Added Pin To Net: NetName=Key1 Pin=SW2-1
+Added Pin To Net: NetName=Key1 Pin=U1-9
+Added Net: Name=Key1
+Added Pin To Net: NetName=Key2 Pin=C52-1
+Added Pin To Net: NetName=Key2 Pin=R27-2
+Added Pin To Net: NetName=Key2 Pin=SW3-1
+Added Pin To Net: NetName=Key2 Pin=U1-10
+Added Net: Name=Key2
+Added Member To Class: ClassName=linux-H-zero Member=Component J? HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J? HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J? HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J? HDR1x4

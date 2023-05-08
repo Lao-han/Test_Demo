@@ -1,0 +1,207 @@
+Removed Pin From Net: NetName=LED_1 Pin=-6
+Removed Pin From Net: NetName=LED_2 Pin=-7
+Removed Pin From Net: NetName=LED_3 Pin=-8
+Removed Pin From Net: NetName=+3V3 Pin=-12
+Removed Pin From Net: NetName=+1V2 Pin=-19
+Removed Pin From Net: NetName=+1V2 Pin=-20
+Removed Pin From Net: NetName=+1V2 Pin=-21
+Removed Pin From Net: NetName=+1V2 Pin=-25
+Removed Pin From Net: NetName=+1V2 Pin=-26
+Removed Pin From Net: NetName=+3V3 Pin=-29
+Removed Pin From Net: NetName=+1V2 Pin=-38
+Removed Pin From Net: NetName=UART2_TX Pin=-39
+Removed Pin From Net: NetName=UART2_RX Pin=-40
+Removed Pin From Net: NetName=LCD_DC Pin=-43
+Removed Pin From Net: NetName=LCD_RST Pin=-44
+Removed Pin From Net: NetName=+1V2 Pin=-47
+Removed Pin From Net: NetName=DTX Pin=-48
+Removed Pin From Net: NetName=DRX Pin=-49
+Removed Pin From Net: NetName=+3V3 Pin=-50
+Removed Pin From Net: NetName=+1V2 Pin=-51
+Removed Pin From Net: NetName=LCD_SCL Pin=-53
+Removed Pin From Net: NetName=LCD_CS Pin=-54
+Removed Pin From Net: NetName=LCD_SDA Pin=-55
+Removed Pin From Net: NetName=+1V2 Pin=-56
+Removed Pin From Net: NetName=+3V3 Pin=-57
+Removed Pin From Net: NetName=+1V2 Pin=-58
+Removed Pin From Net: NetName=+1V8 Pin=-59
+Removed Pin From Net: NetName=+1V8 Pin=-60
+Removed Pin From Net: NetName=+1V8 Pin=-61
+Removed Pin From Net: NetName=+1V8 Pin=-62
+Removed Pin From Net: NetName=+1V2 Pin=-64
+Removed Pin From Net: NetName=+1V8 Pin=-65
+Removed Pin From Net: NetName=+1V8 Pin=-66
+Removed Pin From Net: NetName=+1V8 Pin=-67
+Removed Pin From Net: NetName=+1V8 Pin=-68
+Removed Pin From Net: NetName=+1V8 Pin=-69
+Removed Pin From Net: NetName=+1V8 Pin=-70
+Removed Pin From Net: NetName=+1V8 Pin=-72
+Removed Pin From Net: NetName=+3V0 Pin=-76
+Removed Pin From Net: NetName=+1V8 Pin=-79
+Removed Pin From Net: NetName=+1V2 Pin=-80
+Removed Pin From Net: NetName=+1V8 Pin=-85
+Removed Pin From Net: NetName=+1V2 Pin=-88
+Removed Pin From Net: NetName=+3V3 Pin=-93
+Removed Pin From Net: NetName=+3V3 Pin=-98
+Removed Pin From Net: NetName=RESET Pin=-99
+Removed Pin From Net: NetName=SDC0_D2 Pin=-101
+Removed Pin From Net: NetName=SDC0_D3 Pin=-102
+Removed Pin From Net: NetName=SDC0_CMD Pin=-103
+Removed Pin From Net: NetName=+3V3 Pin=-104
+Removed Pin From Net: NetName=SDC0_CLK Pin=-105
+Removed Pin From Net: NetName=SDC0_D0 Pin=-106
+Removed Pin From Net: NetName=SDC0_D1 Pin=-107
+Removed Pin From Net: NetName=+1V2 Pin=-108
+Removed Pin From Net: NetName=+3V3 Pin=-109
+Removed Pin From Net: NetName=USB_N Pin=-110
+Removed Pin From Net: NetName=USB_P Pin=-111
+Removed Pin From Net: NetName=+3V0 Pin=-115
+Removed Pin From Net: NetName=GND Pin=-116
+Removed Pin From Net: NetName=HP_R Pin=-120
+Removed Pin From Net: NetName=HP_L Pin=-121
+Removed Pin From Net: NetName=+3V3 Pin=-122
+Removed Pin From Net: NetName=HPCOM Pin=-124
+Removed Pin From Net: NetName=HPCOM Pin=-125
+Removed Pin From Net: NetName=+1V2 Pin=-126
+Removed Pin From Net: NetName=+3V3 Pin=-127
+Removed Pin From Net: NetName=GND Pin=-129
+Removed Member From Class: ClassName=linux-H-0 Member=
+Change Component Designator: OldDesignator=C53 NewDesignator=C51
+Change Component Designator: OldDesignator=C54 NewDesignator=C52
+Change Component Designator: OldDesignator=C55 NewDesignator=C53
+Change Component Designator: OldDesignator=C57 NewDesignator=C54
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Added Component: Designator=U1(IC-V3S)
+Added Pin To Net: NetName=LED_1 Pin=U1-6
+Added Pin To Net: NetName=LED_2 Pin=U1-7
+Added Pin To Net: NetName=LED_3 Pin=U1-8
+Added Pin To Net: NetName=+3V3 Pin=U1-12
+Added Pin To Net: NetName=+1V2 Pin=U1-19
+Added Pin To Net: NetName=+1V2 Pin=U1-20
+Added Pin To Net: NetName=+1V2 Pin=U1-21
+Added Pin To Net: NetName=+1V2 Pin=U1-25
+Added Pin To Net: NetName=+1V2 Pin=U1-26
+Added Pin To Net: NetName=+3V3 Pin=U1-29
+Added Pin To Net: NetName=+1V2 Pin=U1-38
+Added Pin To Net: NetName=UART2_TX Pin=U1-39
+Added Pin To Net: NetName=UART2_RX Pin=U1-40
+Added Pin To Net: NetName=LCD_DC Pin=U1-43
+Added Pin To Net: NetName=LCD_RST Pin=U1-44
+Added Pin To Net: NetName=+1V2 Pin=U1-47
+Added Pin To Net: NetName=DTX Pin=U1-48
+Added Pin To Net: NetName=DRX Pin=U1-49
+Added Pin To Net: NetName=+3V3 Pin=U1-50
+Added Pin To Net: NetName=+1V2 Pin=U1-51
+Added Pin To Net: NetName=LCD_SCL Pin=U1-53
+Added Pin To Net: NetName=LCD_CS Pin=U1-54
+Added Pin To Net: NetName=LCD_SDA Pin=U1-55
+Added Pin To Net: NetName=+1V2 Pin=U1-56
+Added Pin To Net: NetName=+3V3 Pin=U1-57
+Added Pin To Net: NetName=+1V2 Pin=U1-58
+Added Pin To Net: NetName=+1V8 Pin=U1-59
+Added Pin To Net: NetName=+1V8 Pin=U1-60
+Added Pin To Net: NetName=+1V8 Pin=U1-61
+Added Pin To Net: NetName=+1V8 Pin=U1-62
+Added Pin To Net: NetName=+1V2 Pin=U1-64
+Added Pin To Net: NetName=+1V8 Pin=U1-65
+Added Pin To Net: NetName=+1V8 Pin=U1-66
+Added Pin To Net: NetName=+1V8 Pin=U1-67
+Added Pin To Net: NetName=+1V8 Pin=U1-68
+Added Pin To Net: NetName=+1V8 Pin=U1-69
+Added Pin To Net: NetName=+1V8 Pin=U1-70
+Added Pin To Net: NetName=+1V8 Pin=U1-72
+Added Pin To Net: NetName=+3V0 Pin=U1-76
+Added Pin To Net: NetName=+1V8 Pin=U1-79
+Added Pin To Net: NetName=+1V2 Pin=U1-80
+Added Pin To Net: NetName=+1V8 Pin=U1-85
+Added Pin To Net: NetName=+1V2 Pin=U1-88
+Added Pin To Net: NetName=+3V3 Pin=U1-93
+Added Pin To Net: NetName=+3V3 Pin=U1-98
+Added Pin To Net: NetName=RESET Pin=U1-99
+Added Pin To Net: NetName=SDC0_D2 Pin=U1-101
+Added Pin To Net: NetName=SDC0_D3 Pin=U1-102
+Added Pin To Net: NetName=SDC0_CMD Pin=U1-103
+Added Pin To Net: NetName=+3V3 Pin=U1-104
+Added Pin To Net: NetName=SDC0_CLK Pin=U1-105
+Added Pin To Net: NetName=SDC0_D0 Pin=U1-106
+Added Pin To Net: NetName=SDC0_D1 Pin=U1-107
+Added Pin To Net: NetName=+1V2 Pin=U1-108
+Added Pin To Net: NetName=+3V3 Pin=U1-109
+Added Pin To Net: NetName=USB_N Pin=U1-110
+Added Pin To Net: NetName=USB_P Pin=U1-111
+Added Pin To Net: NetName=+3V0 Pin=U1-115
+Added Pin To Net: NetName=GND Pin=U1-116
+Added Pin To Net: NetName=HP_R Pin=U1-120
+Added Pin To Net: NetName=HP_L Pin=U1-121
+Added Pin To Net: NetName=+3V3 Pin=U1-122
+Added Pin To Net: NetName=HPCOM Pin=U1-124
+Added Pin To Net: NetName=HPCOM Pin=U1-125
+Added Pin To Net: NetName=+1V2 Pin=U1-126
+Added Pin To Net: NetName=+3V3 Pin=U1-127
+Added Pin To Net: NetName=GND Pin=U1-129
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR32_1
+Add Net: Net with name "DRAM_VREF" already exists
+Add Net: Net with name "DRX" already exists
+Add Net: Net with name "DTX" already exists
+Add Net: Net with name "LED_1" already exists
+Add Net: Net with name "LED_2" already exists
+Add Net: Net with name "LED_3" already exists
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-118
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-117
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C6-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-123
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-119
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-97
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U1-96
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-95
+Added Pin To Net: NetName=NetC10_1 Pin=Y1-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-75
+Added Pin To Net: NetName=NetC11_2 Pin=Y2-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U1-74
+Added Pin To Net: NetName=NetC12_1 Pin=Y2-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-100
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-94
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-73
+Added Net: Name=NetR4_2
+Add Net: Net with name "SDC1_CLK" already exists
+Add Net: Net with name "SDC1_CMD" already exists
+Add Net: Net with name "SDC1_D0" already exists
+Add Net: Net with name "SDC1_D1" already exists
+Add Net: Net with name "SDC1_D2" already exists
+Add Net: Net with name "SDC1_D3" already exists
+Add Net: Net with name "UART2_RX" already exists
+Add Net: Net with name "UART2_TX" already exists
+Added Member To Class: ClassName=linux-H-0 Member=Component U1 IC-V3S

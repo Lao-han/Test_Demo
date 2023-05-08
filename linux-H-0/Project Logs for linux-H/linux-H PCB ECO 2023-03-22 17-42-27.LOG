@@ -1,0 +1,17 @@
+Added Component: Designator=SD1(TF-SOCKET - short)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LiShanwenGit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TF-nano"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR25_2 Pin=SD1-1
+Added Pin To Net: NetName=NetR24_2 Pin=SD1-2
+Added Pin To Net: NetName=NetR23_2 Pin=SD1-3
+Added Pin To Net: NetName=+3V3 Pin=SD1-4
+Added Pin To Net: NetName=NetSD1_5 Pin=SD1-5
+Added Pin To Net: NetName=GND Pin=SD1-6
+Added Pin To Net: NetName=NetR22_2 Pin=SD1-7
+Added Pin To Net: NetName=NetR28_1 Pin=SD1-8
+Added Pin To Net: NetName=GND Pin=SD1-10
+Added Member To Class: ClassName=linux-H-PIN Member=Component SD1 TF-nano

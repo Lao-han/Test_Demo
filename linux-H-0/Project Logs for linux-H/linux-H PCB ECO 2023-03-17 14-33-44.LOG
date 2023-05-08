@@ -1,0 +1,38 @@
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetL4_1 Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=+3V3 Pin=U8-9
+Added Pin To Net: NetName=NetR31_2 Pin=U8-12
+Added Pin To Net: NetName=NetR30_2 Pin=U8-13
+Added Pin To Net: NetName=SDC1_D2 Pin=U8-14
+Added Pin To Net: NetName=SDC1_D3 Pin=U8-15
+Added Pin To Net: NetName=SDC1_CMD Pin=U8-16
+Added Pin To Net: NetName=SDC1_CLK Pin=U8-17
+Added Pin To Net: NetName=SDC1_D0 Pin=U8-18
+Added Pin To Net: NetName=SDC1_D1 Pin=U8-19
+Added Pin To Net: NetName=GND Pin=U8-20
+Added Pin To Net: NetName=+3V3 Pin=U8-22
+Added Pin To Net: NetName=GND Pin=U8-31
+Added Pin To Net: NetName=GND Pin=U8-33
+Added Pin To Net: NetName=NetR33_1 Pin=U8-34
+Added Pin To Net: NetName=GND Pin=U8-36
+Added Pin To Net: NetName=GND Pin=U8-41
+Added Pin To Net: NetName=GND Pin=U8-44
+Add Pin To Net: Unknown Pin: Pin USB/OTG1-5
+Add Pin To Net: Unknown Pin: Pin USB/OTG1-6
+Add Net: Net with name "DRAM_VREF" already exists
+Add Net: Net with name "DRX" already exists
+Add Net: Net with name "DTX" already exists
+Add Net: Net with name "LED_1" already exists
+Add Net: Net with name "LED_2" already exists
+Add Net: Net with name "LED_3" already exists
+Add Net: Net with name "SDC1_CLK" already exists
+Add Net: Net with name "SDC1_CMD" already exists
+Add Net: Net with name "SDC1_D0" already exists
+Add Net: Net with name "SDC1_D1" already exists
+Add Net: Net with name "SDC1_D2" already exists
+Add Net: Net with name "SDC1_D3" already exists
+Add Net: Net with name "UART2_RX" already exists
+Add Net: Net with name "UART2_TX" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists

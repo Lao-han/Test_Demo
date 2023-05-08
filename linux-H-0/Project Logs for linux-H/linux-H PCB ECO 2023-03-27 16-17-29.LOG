@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=SDC0_D1 Pin=J1-1
+Removed Pin From Net: NetName=SDC0_D0 Pin=J1-2
+Removed Pin From Net: NetName=SDC0_CLK Pin=J1-3
+Removed Pin From Net: NetName=SDC0_CMD Pin=J1-4
+Removed Pin From Net: NetName=SDC0_D3 Pin=J2-1
+Removed Pin From Net: NetName=SDC0_D2 Pin=J2-2
+Removed Pin From Net: NetName=EPHY-TXP Pin=J2-3
+Removed Pin From Net: NetName=EPHY-TXN Pin=J2-4
+Removed Pin From Net: NetName=EPHY-RXP Pin=J4-1
+Removed Pin From Net: NetName=EPHY-RXN Pin=J4-2
+Removed Pin From Net: NetName=MCSI-CKN Pin=J4-3
+Removed Pin From Net: NetName=MCSI-CKP Pin=J4-4
+Removed Pin From Net: NetName=MCSI-D1N Pin=J5-1
+Removed Pin From Net: NetName=MCSI-D1P Pin=J5-2
+Removed Pin From Net: NetName=MCSI-D0N Pin=J5-3
+Removed Pin From Net: NetName=MCSI-D0P Pin=J5-4
+Removed Pin From Net: NetName=+3V3 Pin=J6-1
+Removed Pin From Net: NetName=CSI_SDA Pin=J6-2
+Removed Pin From Net: NetName=CSI_SCK Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Member From Class: ClassName=linux-H-zero Member=J1
+Removed Member From Class: ClassName=linux-H-zero Member=J2
+Removed Member From Class: ClassName=linux-H-zero Member=J4
+Removed Member From Class: ClassName=linux-H-zero Member=J5
+Removed Member From Class: ClassName=linux-H-zero Member=J6
+Added Room: Name=linux-H-pin
+Added Room: Name=linux-H-zero

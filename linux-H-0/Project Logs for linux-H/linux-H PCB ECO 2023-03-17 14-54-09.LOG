@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=DTX Pin=R7-2
+Added Pin To Net: NetName=DRX Pin=R9-2
+Added Pin To Net: NetName=LED_1 Pin=R15-1
+Added Pin To Net: NetName=LED_2 Pin=R17-1
+Added Pin To Net: NetName=LED_3 Pin=R18-1
+Added Pin To Net: NetName=SDC1_D2 Pin=U1-1
+Added Pin To Net: NetName=SDC1_D1 Pin=U1-2
+Added Pin To Net: NetName=SDC1_D0 Pin=U1-3
+Added Pin To Net: NetName=SDC1_CMD Pin=U1-4
+Added Pin To Net: NetName=SDC1_CLK Pin=U1-5
+Added Pin To Net: NetName=DRAM_VREF Pin=U1-63
+Added Pin To Net: NetName=DRAM_VREF Pin=U1-71
+Added Pin To Net: NetName=SDC1_D3 Pin=U1-128
+Added Pin To Net: NetName=UART2_RX Pin=U8-42
+Added Pin To Net: NetName=UART2_TX Pin=U8-43

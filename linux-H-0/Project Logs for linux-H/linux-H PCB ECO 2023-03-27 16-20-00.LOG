@@ -1,0 +1,14 @@
+Added Component: Designator=J1(T-4PIN)
+Added Component: Designator=J2(T-4PIN)
+Added Pin To Net: NetName=EPHY-TXP Pin=J1-1
+Added Pin To Net: NetName=EPHY-TXN Pin=J1-2
+Added Pin To Net: NetName=EPHY-RXP Pin=J1-3
+Added Pin To Net: NetName=EPHY-RXN Pin=J1-4
+Added Pin To Net: NetName=+3V3 Pin=J2-1
+Added Pin To Net: NetName=CSI_SDA Pin=J2-2
+Added Pin To Net: NetName=CSI_SCK Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Member To Class: ClassName=linux-H-zero Member=Component J1 HDR1x4
+Added Member To Class: ClassName=linux-H-zero Member=Component J2 HDR1x4
+Added Room: Name=linux-H-pin
+Added Room: Name=linux-H-zero

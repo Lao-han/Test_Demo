@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=linux-H-0 Member=U5
+Add Net: Net with name "DRAM_VREF" already exists
+Add Net: Net with name "DRX" already exists
+Add Net: Net with name "DTX" already exists
+Add Net: Net with name "LED_1" already exists
+Add Net: Net with name "LED_2" already exists
+Add Net: Net with name "LED_3" already exists
+Add Net: Net with name "SDC1_CLK" already exists
+Add Net: Net with name "SDC1_CMD" already exists
+Add Net: Net with name "SDC1_D0" already exists
+Add Net: Net with name "SDC1_D1" already exists
+Add Net: Net with name "SDC1_D2" already exists
+Add Net: Net with name "SDC1_D3" already exists
+Add Net: Net with name "UART2_RX" already exists
+Add Net: Net with name "UART2_TX" already exists
+Added Member To Class: ClassName=linux-H-PIN Member=Component R34 10K
+Added Member To Class: ClassName=linux-H-0 Member=Component U1 IC-V3S
+Added Member To Class: ClassName=linux-H-Power Member=Component U2 DCDC-SY8088AAC
+Added Member To Class: ClassName=linux-H-Power Member=Component U3 TLC-NSMD005
+Added Member To Class: ClassName=linux-H-Power Member=Component U4 DCDC-SY8088AAC
+Added Member To Class: ClassName=linux-H-Power Member=Component U6 CH340E
+Added Room: Name=linux-H-0
+Added Room: Name=linux-H-PIN
+Added Room: Name=linux-H-Power
